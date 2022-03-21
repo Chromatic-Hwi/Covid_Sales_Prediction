@@ -1,4 +1,4 @@
-# COVID-19 Sales Prediction
+# COVID-19 Sales Forecasting
 
 ### 코로나 사태 이후 서울특별시 소재의 가게 매출 데이터를 활용하여 기상 정보, 코로나 확진자 및 검사 데이터, 방역 규제 등의 정보를 학습 데이터로 활용. DNN 네트워크를 통해 매출을 예측. 
 
