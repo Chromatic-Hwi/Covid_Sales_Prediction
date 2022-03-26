@@ -14,8 +14,8 @@ def R2(y_true, y_pred):
 pred = pd.read_csv(sys.argv[2]).to_numpy()[:,:]
 gt = pd.read_csv(sys.argv[1]).to_numpy()[:,:]
 
-RMSE_score = round(RMSE(gt, pred),4)
-R2_score = round(R2(gt, pred),4)
-score = round(((1-RMSE_score)/2 + R2_score/2),4)
+RMSE_score = float(format(RMSE(gt, pred), ".4f"))
+R2_score = float(format(R2(gt, pred), ".4f"))
+score = float(format(((1-RMSE_score)/2 + R2_score/2), ".4f"))
 
 print(f"score:{score}")
