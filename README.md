@@ -5,11 +5,11 @@
 ### 코드는 데이터의 전처리와 시각 처리, 딥러닝 코드를 분할하여 실행.
 
 <img src="https://user-images.githubusercontent.com/89522246/162576833-458c8069-3d2f-4082-9b08-025230632c35.png"  width="600" height="337"/>
-<img src="https://user-images.githubusercontent.com/89522246/162576834-45bc5f3e-2bd8-46d1-bf2b-98370d1cd5c8.png"  width="600" height="337"/>2
-<img src="https://user-images.githubusercontent.com/89522246/162576835-1ec965cd-99bb-4b02-9798-7ff569e6137f.png"  width="600" height="337"/>3
-<img src="https://user-images.githubusercontent.com/89522246/162576836-b82aff05-0a77-469f-86f9-c189ec1dad1b.png"  width="600" height="337"/>4
-<img src="https://user-images.githubusercontent.com/89522246/162576837-aa64b80c-7fd6-4994-95dc-c26fc30400b8.png"  width="600" height="337"/>5
-<img src="https://user-images.githubusercontent.com/89522246/162576838-7d3ed756-7a84-48c4-aa79-befaf69b60f0.png"  width="600" height="337"/>6
+<img src="https://user-images.githubusercontent.com/89522246/162576834-45bc5f3e-2bd8-46d1-bf2b-98370d1cd5c8.png"  width="600" height="337"/>
+<img src="https://user-images.githubusercontent.com/89522246/162576835-1ec965cd-99bb-4b02-9798-7ff569e6137f.png"  width="600" height="337"/>
+<img src="https://user-images.githubusercontent.com/89522246/162576836-b82aff05-0a77-469f-86f9-c189ec1dad1b.png"  width="600" height="337"/>
+<img src="https://user-images.githubusercontent.com/89522246/162576837-aa64b80c-7fd6-4994-95dc-c26fc30400b8.png"  width="600" height="337"/>
+<img src="https://user-images.githubusercontent.com/89522246/162576838-7d3ed756-7a84-48c4-aa79-befaf69b60f0.png"  width="600" height="337"/>
 <img src="https://user-images.githubusercontent.com/89522246/162576840-cc1d8fcf-b0b9-4777-b632-c9b83f0f383f.png"  width="600" height="337"/>
 <img src="https://user-images.githubusercontent.com/89522246/162576841-9aab80b6-aa77-46ca-a355-165d47e68ed6.png"  width="600" height="337"/>
 <img src="https://user-images.githubusercontent.com/89522246/162576842-c028c8bb-9ee4-4954-8fa5-1fca2e4a223a.png"  width="600" height="337"/>
